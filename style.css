@@ -1,0 +1,76 @@
+#aboutme iframe
+{
+    width: 100%;
+}
+.aboutme_1 h3
+{
+    display: inline;
+}
+.aboutme_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+.maintraveldiv{
+    border: 1px solid teal;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+
+.maintraveldiv hr{
+    width:230px;
+    
+}
+
+.maintraveldiv h5, .maintraveldiv p{
+ margin-left: 20px;   
+}
+
+.movie_head { 
+    font-size: 20px;
+    padding: 6px 22px; 
+    border-radius: 10px; 
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+    background-color:lightseagreen;
+    color: white;
+}
+
+.movie_head i { float: right; } .movie_text span { color: #ff7700; }
+
+.news_li{
+    margin-top: 13px;
+    
+}
+.news_li h4{
+    border-bottom: 1px solid white ;
+    padding: 8px;
+}
+.bookdiv{
+    cursor:pointer;
+}
+.bookdiv hr{
+    margin-bottom:10px;
+}
+.modol-content{
+    margin-top: 100px;
+}
+.popupp{
+    margin-top: 10px;
+}
+.popupimg{
+    display: inline-block;
+    width:250px;
+}
+.bookimg{
+    width:250px;
+}
+.travelimg{
+    width:100%;
+}
